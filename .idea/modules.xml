@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObserverDesign.iml" filepath="$PROJECT_DIR$/ObserverDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miss2008-dailynews-ui/miss2008-dailynews-ui.iml" filepath="$PROJECT_DIR$/miss2008-dailynews-ui/miss2008-dailynews-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miss2008-message-ui/miss2008-message-ui.iml" filepath="$PROJECT_DIR$/miss2008-message-ui/miss2008-message-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miss2008-music-ui/miss2008-music-ui.iml" filepath="$PROJECT_DIR$/miss2008-music-ui/miss2008-music-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miss2008-resource-ui/miss2008-resource-ui.iml" filepath="$PROJECT_DIR$/miss2008-resource-ui/miss2008-resource-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miss2008-video-ui/miss2008-video-ui.iml" filepath="$PROJECT_DIR$/miss2008-video-ui/miss2008-video-ui.iml" />
+    </modules>
+  </component>
+</project>

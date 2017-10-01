@@ -1,0 +1,1 @@
+include ':app', ':miss2008-music-ui', ':miss2008-video-ui', ':miss2008-dailynews-ui', ':miss2008-message-ui', ':miss2008-resource-ui'
